@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="width:50%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" alt="react logo"  />
@@ -30,7 +30,7 @@
 
 ###
 
-<div align="right">
+<div align="right" style="width:50%">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prasad-droid.prasad-droid&left_color=aqua&right_color=aliceblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prasad-droid.prasad-droid&left_color=aqua&right_color=black"  />
 </div>
 
 ###
